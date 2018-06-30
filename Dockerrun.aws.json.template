@@ -1,7 +1,7 @@
 {
   "AWSEBDockerrunVersion": 1,
   "Image": {
-    "Name": "rmortale/docker-plugin-example",
+    "Name": "rmortale/docker-plugin-example:cnttag",
     "Update": "true"
   },
   "Ports": [{
